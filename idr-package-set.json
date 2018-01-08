@@ -1,0 +1,46 @@
+{
+  "lightyear": {
+    "repo": "https://github.com/ziman/lightyear.git",
+    "version": "master"
+  },
+  "wlpprint": {
+    "repo": "https://github.com/shayan-najd/wl-pprint.git",
+    "version": "master"
+  },
+  "text": {
+    "repo": "https://github.com/ziman/text.git",
+    "version": "master"
+  },
+  "containers": {
+    "repo": "https://github.com/jfdm/idris-containers.git",
+    "version": "master"
+  },
+  "bytes": {
+    "repo": "https://github.com/ziman/idris-bytes.git",
+    "version": "master"
+  },
+  "quickcheck": {
+    "repo": "https://github.com/david-christiansen/idris-quickcheck.git",
+    "version": "master"
+  },
+  "specdris": {
+    "repo": "https://github.com/pheymann/specdris.git",
+    "version": "master"
+  },
+  "posix": {
+    "repo": "https://github.com/idris-hackers/idris-posix.git",
+    "version": "master"
+  },
+  "http": {
+    "repo": "https://github.com/uwap/idris-http.git",
+    "version": "master"
+  },
+  "optparse-idris": {
+    "repo": "https://github.com/HuwCampbell/optparse-idris.git",
+    "version": "master"
+  },
+  "probability": {
+    "repo": "https://github.com/BlackBrane/probability.git",
+    "version": "master"
+  }
+}
